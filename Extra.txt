@@ -1,0 +1,7 @@
+cmd => dotnet new --install Duende.IdentityServer.Templates
+
+cmd=> --list
+
+cmd root project => dotnet new isempty
+
+F:\Samole\Samole.IdentotyServer => cmd => dotnet new isui

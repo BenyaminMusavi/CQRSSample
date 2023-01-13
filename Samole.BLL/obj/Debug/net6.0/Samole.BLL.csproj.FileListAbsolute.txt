@@ -1,0 +1,17 @@
+F:\Samole\Samole.BLL\bin\Debug\net6.0\Samole.BLL.deps.json
+F:\Samole\Samole.BLL\bin\Debug\net6.0\Samole.BLL.dll
+F:\Samole\Samole.BLL\bin\Debug\net6.0\Samole.BLL.pdb
+F:\Samole\Samole.BLL\bin\Debug\net6.0\Samole.DAL.dll
+F:\Samole\Samole.BLL\bin\Debug\net6.0\Samole.Model.dll
+F:\Samole\Samole.BLL\bin\Debug\net6.0\Samole.DAL.pdb
+F:\Samole\Samole.BLL\bin\Debug\net6.0\Samole.Model.pdb
+F:\Samole\Samole.BLL\obj\Debug\net6.0\Samole.BLL.csproj.AssemblyReference.cache
+F:\Samole\Samole.BLL\obj\Debug\net6.0\Samole.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Samole\Samole.BLL\obj\Debug\net6.0\Samole.BLL.AssemblyInfoInputs.cache
+F:\Samole\Samole.BLL\obj\Debug\net6.0\Samole.BLL.AssemblyInfo.cs
+F:\Samole\Samole.BLL\obj\Debug\net6.0\Samole.BLL.csproj.CoreCompileInputs.cache
+F:\Samole\Samole.BLL\obj\Debug\net6.0\Samole.BLL.csproj.CopyComplete
+F:\Samole\Samole.BLL\obj\Debug\net6.0\Samole.BLL.dll
+F:\Samole\Samole.BLL\obj\Debug\net6.0\refint\Samole.BLL.dll
+F:\Samole\Samole.BLL\obj\Debug\net6.0\Samole.BLL.pdb
+F:\Samole\Samole.BLL\obj\Debug\net6.0\ref\Samole.BLL.dll

@@ -1,0 +1,17 @@
+F:\Samole\Samole.DAL\bin\Debug\net6.0\Samole.DAL.deps.json
+F:\Samole\Samole.DAL\bin\Debug\net6.0\Samole.DAL.runtimeconfig.json
+F:\Samole\Samole.DAL\bin\Debug\net6.0\Samole.DAL.dll
+F:\Samole\Samole.DAL\bin\Debug\net6.0\Samole.DAL.pdb
+F:\Samole\Samole.DAL\bin\Debug\net6.0\Samole.Model.dll
+F:\Samole\Samole.DAL\bin\Debug\net6.0\Samole.Model.pdb
+F:\Samole\Samole.DAL\obj\Debug\net6.0\Samole.DAL.csproj.AssemblyReference.cache
+F:\Samole\Samole.DAL\obj\Debug\net6.0\Samole.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Samole\Samole.DAL\obj\Debug\net6.0\Samole.DAL.AssemblyInfoInputs.cache
+F:\Samole\Samole.DAL\obj\Debug\net6.0\Samole.DAL.AssemblyInfo.cs
+F:\Samole\Samole.DAL\obj\Debug\net6.0\Samole.DAL.csproj.CoreCompileInputs.cache
+F:\Samole\Samole.DAL\obj\Debug\net6.0\Samole.DAL.csproj.CopyComplete
+F:\Samole\Samole.DAL\obj\Debug\net6.0\Samole.DAL.dll
+F:\Samole\Samole.DAL\obj\Debug\net6.0\refint\Samole.DAL.dll
+F:\Samole\Samole.DAL\obj\Debug\net6.0\Samole.DAL.pdb
+F:\Samole\Samole.DAL\obj\Debug\net6.0\Samole.DAL.genruntimeconfig.cache
+F:\Samole\Samole.DAL\obj\Debug\net6.0\ref\Samole.DAL.dll

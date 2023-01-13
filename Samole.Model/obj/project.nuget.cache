@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mM0rsQKr4UdgKZBR2nbwQc5C94N4F0gu+OOD8BwlPm/97EQJaZhduH/BCVribN1CYDlGlQW2+Tua2sbXHBoaEg==",
+  "success": true,
+  "projectFilePath": "D:\\CQRSSample\\Samole.Model\\Samole.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benyamin\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

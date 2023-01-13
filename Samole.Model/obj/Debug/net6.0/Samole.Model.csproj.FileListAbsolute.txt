@@ -1,0 +1,12 @@
+F:\Samole\Samole.Model\bin\Debug\net6.0\Samole.Model.deps.json
+F:\Samole\Samole.Model\bin\Debug\net6.0\Samole.Model.dll
+F:\Samole\Samole.Model\bin\Debug\net6.0\Samole.Model.pdb
+F:\Samole\Samole.Model\obj\Debug\net6.0\Samole.Model.csproj.AssemblyReference.cache
+F:\Samole\Samole.Model\obj\Debug\net6.0\Samole.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Samole\Samole.Model\obj\Debug\net6.0\Samole.Model.AssemblyInfoInputs.cache
+F:\Samole\Samole.Model\obj\Debug\net6.0\Samole.Model.AssemblyInfo.cs
+F:\Samole\Samole.Model\obj\Debug\net6.0\Samole.Model.csproj.CoreCompileInputs.cache
+F:\Samole\Samole.Model\obj\Debug\net6.0\Samole.Model.dll
+F:\Samole\Samole.Model\obj\Debug\net6.0\refint\Samole.Model.dll
+F:\Samole\Samole.Model\obj\Debug\net6.0\Samole.Model.pdb
+F:\Samole\Samole.Model\obj\Debug\net6.0\ref\Samole.Model.dll
